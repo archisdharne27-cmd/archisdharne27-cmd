@@ -26,12 +26,7 @@
 - 🎓 Student Performance Prediction System  
 - 🌐 Web-based ML applications  
 
----
 
-## 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
-
----
 
 ## 📫 Contact Me
 - GitHub: https://github.com/archisdhatrne27-cmd 
