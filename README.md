@@ -7,7 +7,7 @@
 
 ## 🚀 Skills
 - 💡 Programming: Python, C, C++, Java(learning)  
-- 🌐 Web Development: HTML, CSS, JavaScript  
+- 🌐 Web Development: HTML, CSS, JavaScript(learning)  
 - 📊 Data Science & Machine Learning (Learning)  
 - 🎬 Video Editing: Premiere Pro(learning)  
 
